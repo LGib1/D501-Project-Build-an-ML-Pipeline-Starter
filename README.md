@@ -38,7 +38,7 @@ and click on `Fork` in the upper right corner. This will create a fork in your G
 repository that is under your control. Now clone the repository locally so you can start working on it:
 
 ```
-git clone https://github.com/[your github username]/Project-Build-an-ML-Pipeline-Starter.git
+git clone https://github.com/LGib1/D501-Project-Build-an-ML-Pipeline-Starter.git
 ```
 
 and go into the repository:
@@ -71,7 +71,9 @@ You should see a message similar to:
 ```
 wandb: Appending key for api.wandb.ai to your netrc file: /home/[your username]/.netrc
 ```
+### The following is a link to weight and biases:
 
+https://wandb.ai/lgibbo1-western-governors-university/nyc_airbnb/table?nw=nwuserlgibbo1
 
 ### The configuration
 As usual, the parameters controlling the pipeline are defined in the ``config.yaml`` file defined in
